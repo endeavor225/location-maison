@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tutoriel-expo",
-    "slug": "tutoriel-expo",
+    "name": "location-maison",
+    "slug": "location-maison",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
